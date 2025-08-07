@@ -1,7 +1,7 @@
 # Grouped Operator Scheduling & Balancing Tool (Gurobi Optimization)
 
 This Gurobi model is the second iteration of my **Line Balancing Optimization Tool** developed during my internship at MSA.  
-It builds on Model 1’s station-level operator allocation by introducing **group constraints** and a **two-phase optimization** to create implementable daily schedules - not just numbers in a table.
+It builds on Model 1’s station-level operator allocation by introducing **group constraints** and a **two-phase optimization** to create implementable daily schedules.
 
 **Goal:** Assign a fixed number of operators to sequential stations (with real-world group restrictions) to first **maximize throughput**, then **minimize workload imbalance** between stations.
 
