@@ -35,8 +35,6 @@ Within each group:
 - Minimizes `∑(throughput[i] – avg_throughput)^2` to smooth station performance.
 - Warm-starts from Phase-1 assignments for faster solve time.
 
-- In simple terms: Phase 1 tells you the best possible output under constraints. Phase 2 shows how close you can get to equal workloads without sacrificing that speed.
-
 ---
 
 ## Core Constraints
