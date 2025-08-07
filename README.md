@@ -57,15 +57,8 @@ The model produces:
 - **Deviation Report:** stations >10% above/below average flagged.
 - **Operator Schedule:** for each operator — primary and secondary station, units/hr contribution, minutes/hour allocation.
 
-In simple terms:  
-> “Phase 1 tells you the best possible output under constraints. Phase 2 shows how close you can get to equal workloads without sacrificing that speed.”
-
 ---
 
-## 💡 Key Note
-
-This project was built using my **academic Gurobi license**, as MSA did not have one available.  
-It replaced hours of manual Excel guesswork with a mathematically optimal, schedule-level staffing plan — making recommendations both faster to generate and easier to justify.
 
 
 
