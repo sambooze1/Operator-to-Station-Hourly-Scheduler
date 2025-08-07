@@ -56,7 +56,6 @@ The model produces:
 - **Station Summary:** throughput (units/hr), daily units (9-hr shift), and deviation from average.
 - **Deviation Report:** stations >10% above/below average flagged.
 - **Operator Schedule:** for each operator — primary and secondary station, units/hr contribution, minutes/hour allocation.
-- **Adjusted daily output:** assumes 28% PF&D losses
 
 ---
 
